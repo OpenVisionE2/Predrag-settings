@@ -1,0 +1,14 @@
+#NAME 15.0 W Telestar 12 Vantage
+#SERVICE 1:0:2:32:1:1:d7aacf2:0:0:0:
+#SERVICE 1:0:2:33:1:1:d7aacf2:0:0:0:
+#SERVICE 1:0:2:1:8:1111:d7a2acb:0:0:0:
+#SERVICE 1:0:2:2:8:1111:d7a2acb:0:0:0:
+#SERVICE 1:0:2:3:8:1111:d7a2acb:0:0:0:
+#SERVICE 1:0:2:4:8:1111:d7a2acb:0:0:0:
+#SERVICE 1:0:2:5:8:1111:d7a2acb:0:0:0:
+#SERVICE 1:0:2:6:8:1111:d7a2acb:0:0:0:
+#SERVICE 1:0:2:7:8:1111:d7a2acb:0:0:0:
+#SERVICE 1:0:2:8:8:1111:d7a2acb:0:0:0:
+#SERVICE 1:0:2:9:8:1111:d7a2acb:0:0:0:
+#SERVICE 1:0:2:2:1:ffff:d7a2ade:0:0:0:
+#SERVICE 1:0:2:2:1:ffff:d7a2cbf:0:0:0:
