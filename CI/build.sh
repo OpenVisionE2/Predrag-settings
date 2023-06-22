@@ -3,6 +3,8 @@
 # Script by Persian Prince for https://github.com/OpenVisionE2
 # You're not allowed to remove my copyright or reuse this script without putting this header.
 
+rm -rf *Predrag*
+
 for d in *.zip
 do
   dir=./${d%%.zip}
