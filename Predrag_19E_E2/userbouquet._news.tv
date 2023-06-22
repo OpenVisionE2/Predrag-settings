@@ -1,5 +1,5 @@
 #NAME  News
-#SERVICE 1:64:7:0:0:0:0:0:0:0:
+#SERVICE 1:64:11:0:0:0:0:0:0:0:
 #DESCRIPTION 19.2E - Astra 1KR / Astra 1L / Astra 2C / Astra 1M / Astra 1H
 #SERVICE 1:0:1:3338:45b:1:c00000:0:0:0:
 #SERVICE 1:0:19:13a7:3ea:1:c00000:0:0:0:
